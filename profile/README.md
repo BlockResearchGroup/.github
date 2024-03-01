@@ -1,4 +1,4 @@
-## Hi there 👋
+## BRG code repositories
 
 <!--
 
@@ -10,3 +10,6 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+
+This organization contains all public repositories of the Block Research Group at ETH Zurch.
+They contain code corresponding to the work of BRG's past or present researchers.
