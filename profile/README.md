@@ -20,7 +20,7 @@ and the main [COMPAS documentation pages](https://compas.dev/compas).
 To try out the functionality of some of the packages directly in the browser, without installing anything,
 have a look at [brg-jupyterlite](https://blockresearchgroup.github.io/brg-jupyterlite/lab/index.html).
 
-We are committed to making our work available to the community, in academic and in professional practice.
+We are committed to making our work available to the academic community as well as in professional practice.
 If you encounter something that doesn't work, please let us know via the issue trackers of the corresponding repository,
 so we can make it better.
 
