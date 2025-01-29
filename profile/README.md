@@ -14,9 +14,6 @@
 This organization contains all public repositories of the Block Research Group at ETH Zurch.
 Most of these repositories contain COMPAS packages with code corresponding to the work of BRG's past and present researchers.
 
-To get started with COMPAS, check out the [COMPAS framework website](https://compas.dev),
-and the main [COMPAS documentation pages](https://compas.dev/compas).
-
 To try out the functionality of some of the packages directly in the browser, without installing anything,
 have a look at [brg-jupyterlite](https://blockresearchgroup.github.io/brg-jupyterlite/lab/index.html).
 
